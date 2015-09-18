@@ -1,0 +1,31 @@
+
+JCP(Gap up, $9.20 support line), CVC(weekly above 25th line)
+FCX, WDC, WEN, HPQ
+
+WU,HMC, CREE, HIBB, LL, UNFI
+WDC, HAS, KHC, CVC, HPQ, PBR
+CSCO, WEN, GE, ALLY, IBN, BBD, FNMA, AA
+AGEN, XRX, INTC, CNO, GRPN
+MU, FV, TTWO, UNG, JCP
+USG, VALE, AMAT, EMC, CLF
+FCX, BSX, CHK, RF,
+SPLS, SFUN, HALO, UUP, MSFT, NAT, 
+
+Fund Index : USO, NUGT, $INDU
+
+EWY-Korea Index.
+
+
+UltraWhite Hand 312401 $34.37
+11x17 - 500 set 17.79
+
+sudo apt-get update
+sudo apt-get purge adobe-flash{plugin,-properties-gtk}
+sudo apt-get install flashplugin-installer
+
+
+sudo apt-get install alien dpkg-dev debhelper build-essential
+sudo alien packagename.rpm
+sudo dpkg -i packagename.deb
+
+
