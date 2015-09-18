@@ -5,6 +5,8 @@
 #include <stdlib.h>
 #include <stdio.h>
 #include <string.h>
+//const point test
+//int const point test
 
 void main() {
     int val1, val2;
