@@ -5,6 +5,8 @@
 #include <stdlib.h>
 #include <stdio.h>
 #include <string.h>
+//2nd changed
+//add new comment
 
 void main() {
     int val1, val2;
