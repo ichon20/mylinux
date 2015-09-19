@@ -7,6 +7,7 @@
 #include <string.h>
 //2nd changed
 //add new comment
+//add branch 2 test
 
 void main() {
     int val1, val2;
